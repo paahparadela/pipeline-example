@@ -1,1 +1,1 @@
-# pipeline-example jenkins
+# pipeline-example
